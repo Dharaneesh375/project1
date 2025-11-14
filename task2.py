@@ -1,0 +1,1 @@
+print("Hi!, this is task 2 from project 1.")
